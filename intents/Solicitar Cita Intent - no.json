@@ -1,0 +1,37 @@
+{
+  "id": "e6a01dfa-ffad-4b0f-a3de-e4e0f2b58141",
+  "parentId": "bdcede05-9c59-448a-a3aa-042976d2e914",
+  "rootParentId": "bdcede05-9c59-448a-a3aa-042976d2e914",
+  "name": "Solicitar Cita Intent - no",
+  "auto": true,
+  "contexts": [
+    "ctx-useridentified",
+    "SolicitarCitaIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SolicitarCitaIntent.SolicitarCitaIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

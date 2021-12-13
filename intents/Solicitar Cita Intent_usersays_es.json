@@ -1,0 +1,49 @@
+[
+  {
+    "id": "a10edfbf-78b3-4aa9-9da0-9e6505f72334",
+    "data": [
+      {
+        "text": "solicitar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a577aad2-bb53-4cc5-961a-381bd64064d7",
+    "data": [
+      {
+        "text": "me gustaria solicitar una cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a6dac3cc-98b3-4905-a9ea-b8c5f3ae1ba9",
+    "data": [
+      {
+        "text": "me gustaria reservar una cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

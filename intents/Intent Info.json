@@ -1,0 +1,36 @@
+{
+  "id": "e4f07ef6-cf61-4a2d-8790-ca024ff30de8",
+  "name": "Intent Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Claro, llamanos cuando quieras al 6 7 5 6 7 5 6 7 5",
+            "Si! Llamenos al 6 7 5 6  7 5  6 7 5"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

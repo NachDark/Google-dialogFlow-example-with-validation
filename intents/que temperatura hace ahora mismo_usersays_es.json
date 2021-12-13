@@ -1,0 +1,118 @@
+[
+  {
+    "id": "9639dbd5-b3d6-448a-aa6c-5a86db396263",
+    "data": [
+      {
+        "text": "que dia hace en ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "37fc2884-3e25-4263-a618-f26719ac627a",
+    "data": [
+      {
+        "text": "Como esta el dia en ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "meta": "@sys.geo-county-us",
+        "alias": "geo-county-us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ddaf180d-b360-461a-9372-85360caa04e5",
+    "data": [
+      {
+        "text": "que temperatura hace ",
+        "userDefined": false
+      },
+      {
+        "text": "ahora mismo",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8851415a-a8e9-44fd-9081-7387c6dcf184",
+    "data": [
+      {
+        "text": "Como esta el dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "948c6a56-c705-47bc-8c8b-e2b0f0b2df6f",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "temperatura",
+        "meta": "@sys.temperature",
+        "alias": "temperature",
+        "userDefined": true
+      },
+      {
+        "text": " hace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "27920311-ce3d-4d36-912a-37151543c171",
+    "data": [
+      {
+        "text": "Cual ",
+        "userDefined": false
+      },
+      {
+        "text": "esta el",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " clima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

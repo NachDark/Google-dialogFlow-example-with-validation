@@ -1,0 +1,9 @@
+{
+  "id": "3cc78d7d-2536-48ab-ab75-fc7d14db652f",
+  "name": "TipoCita",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

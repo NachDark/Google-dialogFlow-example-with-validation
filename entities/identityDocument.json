@@ -1,0 +1,9 @@
+{
+  "id": "16325c25-166c-4d84-a53e-8642709c0bfb",
+  "name": "identityDocument",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13f36906-04c1-4d61-bf0e-3d36d151ef38",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hola!, digame su dni para poder ayudarle",
+            "¡Hey!, digame su dni para poder ayudarle",
+            "¡Buenos días!, digame su dni para poder ayudarle",
+            "Eeeeeeee, digame su dni para poder ayudarle",
+            "Ahoj, digame su dni para poder ayudarle"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

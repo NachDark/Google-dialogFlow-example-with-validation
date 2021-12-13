@@ -1,0 +1,74 @@
+{
+  "id": "0722404f-b6a3-49ef-8b32-4bb094672c9b",
+  "parentId": "bdcede05-9c59-448a-a3aa-042976d2e914",
+  "rootParentId": "bdcede05-9c59-448a-a3aa-042976d2e914",
+  "name": "Solicitar Cita Intent - yes",
+  "auto": true,
+  "contexts": [
+    "ctx-useridentified",
+    "SolicitarCitaIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SolicitarCitaIntent.SolicitarCitaIntent-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "84215abf-77a5-43f9-a106-d338db0e4e3b",
+          "name": "appointmentType",
+          "required": true,
+          "dataType": "@TipoCita",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "me falta el tipo de cita"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "05ec0f20-50c0-4955-88a9-228a864f38e8",
+          "name": "subject",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "me falta el porque"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

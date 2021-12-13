@@ -1,0 +1,44 @@
+[
+  {
+    "id": "28c503fc-f500-4f1c-848a-2332b26ef71f",
+    "data": [
+      {
+        "text": "¿Cuando tengo mi proxima cita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "03cac000-bad9-47c6-b763-f8911c2dddcc",
+    "data": [
+      {
+        "text": "¿Cuando ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " proxima cita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

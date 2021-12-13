@@ -1,0 +1,23 @@
+[
+  {
+    "value": "FACE_TO_FACE",
+    "synonyms": [
+      "presencial",
+      "en persona"
+    ]
+  },
+  {
+    "value": "VIDEO",
+    "synonyms": [
+      "videoconferencia",
+      "skype"
+    ]
+  },
+  {
+    "value": "PHONE",
+    "synonyms": [
+      "PHONE",
+      "telefono"
+    ]
+  }
+]

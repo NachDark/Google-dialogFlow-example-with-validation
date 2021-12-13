@@ -1,0 +1,99 @@
+[
+  {
+    "id": "c6ccd01c-6468-406b-b23b-e8ca3284437d",
+    "data": [
+      {
+        "text": "llamar a ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " humano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9d7dd573-ed7a-4454-a657-2309623802ae",
+    "data": [
+      {
+        "text": "puedes pasarme con ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " persona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c0494c74-8944-4472-b268-359b4abc2aae",
+    "data": [
+      {
+        "text": "necesito hablar con ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " persona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "179a58b6-00b0-402b-ba92-18513992fb00",
+    "data": [
+      {
+        "text": "hablar con operador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7e86f3bf-6ce5-4118-aae9-c9020d5d2abe",
+    "data": [
+      {
+        "text": "Hablar con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " humano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

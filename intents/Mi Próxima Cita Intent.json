@@ -1,0 +1,43 @@
+{
+  "id": "52a7960d-7989-4f1e-97d1-fa82472ea752",
+  "name": "Mi Próxima Cita Intent",
+  "auto": true,
+  "contexts": [
+    "ctx-useridentified"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ctx-useridentified",
+          "lifespan": 5
+        },
+        {
+          "name": "SolicitarCitaIntent-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
